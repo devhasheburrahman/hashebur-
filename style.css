@@ -1,0 +1,54 @@
+body h1 {
+    color: rgb(4, 4, 4);
+
+
+
+}
+
+.hasib {
+    color: orange;
+}
+
+section {
+
+    display: flex;
+}
+
+.nhh {
+    width: 50%;
+}
+
+.nhh img {
+
+    width: 90%;
+    padding: 10%;
+    padding-left: 10px;
+
+}
+
+.bbb {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.roni section {
+
+    display: flex;
+}
+
+.roni {
+    width: 50%;
+}
+
+.roni img {
+
+    width: 90%;
+    padding: 10%;
+    padding-left: 10px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+}
